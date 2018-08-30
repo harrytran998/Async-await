@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jetaimefrc/Async-await/issues"
   },
-  "homepage": "https://github.com/jetaimefrc/Async-await#readme"
+  "homepage": "https://github.com/jetaimefrc/Async-await#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
